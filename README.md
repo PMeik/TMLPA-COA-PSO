@@ -83,7 +83,7 @@ Los módulos `math`, `random`, `time` y `statistics` son parte de la biblioteca 
 ### 4.1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/[TU_USUARIO]/TMLPA-COA-vs-PSO.git
+git clone https://github.com/PMeik/TMLPA-COA-PSO.git
 cd TMLPA-COA-vs-PSO
 ```
 
