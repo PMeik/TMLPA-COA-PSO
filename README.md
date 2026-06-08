@@ -4,7 +4,7 @@ Implementación y evaluación comparativa del **Algoritmo de Optimización del C
 
 Trabajo desarrollado en el marco del curso de la **Escuela de Ingeniería Civil Informática, Universidad de Valparaíso**.
 
-**Autor:** [TU NOMBRE COMPLETO]
+**Autor:** [Miguel Andrés Escobar Palta]
 **Año:** 2026
 
 ---
@@ -221,4 +221,4 @@ Este proyecto se distribuye bajo licencia **MIT**. Ver `LICENSE` para más detal
 
 ## Contacto
 
-Para consultas sobre el proyecto, dirigirse a [TU CORREO@uv.cl].
+Para consultas sobre el proyecto, dirigirse a [miguel.escobar.palta@gmail.com].
