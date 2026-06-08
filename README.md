@@ -1,4 +1,4 @@
-# TMLPA-COA-vs-PSO
+# TMLPA-COA-PSO
 
 Implementación y evaluación comparativa del **Algoritmo de Optimización del Coatí (COA)** frente a **Particle Swarm Optimization (PSO)** aplicados al **Problema de Localización de Microhubs y Asignación Peatonal (TMLPA)**.
 
